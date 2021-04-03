@@ -1,0 +1,32 @@
+.titre-messages{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 35px;
+}
+
+.message{
+    border: 1px solid black;
+    width: 40%;
+    margin: auto;
+}
+.titre-message{
+    text-align: center;
+    
+}
+
+.numero-message{
+    text-align: center;
+    margin-right: 400px;
+}
+
+.mail-message{
+    text-align: center;
+}
+
+.contenu-message{
+    padding-top: 20px;
+    width: 90%;
+    text-align: justify;
+    margin: auto;
+    margin-bottom: 20px;
+}
